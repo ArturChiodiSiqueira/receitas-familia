@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Receitas de Família",
+    "slug": "receitas-familia",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.receitasfamilia.app"
+    },
+    "android": {
+      "package": "com.receitasfamilia.app"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
